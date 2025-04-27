@@ -39,7 +39,7 @@ The PaymentServiceImpl class uses the @Qualifier annotation to select the paymen
  
  ### Clone the Repository
  ```bash
- git clone https://github.com/rajvicky16/paymentservice.git
+ git clone https://github.com/rajvicky16/PaymentService.git
  cd paymentservice
  ```
  
